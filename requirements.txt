@@ -2,5 +2,3 @@ fastmcp
 langchain-mcp-adapters
 langgraph
 langchain-openai
-deepagents
-python-dotenv
